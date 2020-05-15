@@ -1,0 +1,11 @@
+load data local infile '<FILEPATH>/Gym_Branch.csv' into table gym_branch fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '<FILEPATH>/Member_Information.csv' into table member_info fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '<FILEPATH>/Member_Address.csv' into table member_address fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '<FILEPATH>/Employee_Information.csv' into table employee_info fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '<FILEPATH>/Employee_Address.csv' into table employee_address fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '<FILEPATH>/Employee_Title.csv' into table employee_title fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '<FILEPATH>/Guest_Information.csv' into table guest_info fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '<FILEPATH>/Guest_Address.csv' into table guest_address fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '<FILEPATH>/Gym_Facilities.csv' into table gym_facilities fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '<FILEPATH>/Membership_Type.csv' into table membership_type fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '<FILEPATH>/Member_Payment.csv' into table member_payment fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
