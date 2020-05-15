@@ -1,0 +1,21 @@
+member_id,member_fname,member_lname,member_phone,member_email,member_dob,member_sex,member_start,member_end,gym_branch
+M1,Matthew,Cox,7185793752,matthew1@gmail.com,1990-01-01,Male,2015-01-01,,Bensonhurst
+M2,Scott,Baker,3474853275,scottbaker@gmail.com,1996-03-18,Male,2015-01-02,2017-06-24,SoHo
+M3,Winfield,Leiv,3478596353,winleiv12@yahoo.com,1989-02-05,Male,2015-01-16,,Dyker Heights
+M4,Bob,Cunningham,7182349381,bobbbbb@gmail.com,1975-02-03,Male,2015-02-15,2019-11-14,Parkchester
+M5,Dominic,Paul,9291232364,xxpaulioxx@gmail.com,1950-12-12,Male,2016-02-16,,Astoria
+M6,Diana ,Andrews,2123423567,dianaandrews@gmail.com,1998-02-11,Female,2016-02-17,,Arden Heights
+M7,Jill,Dawson,9178264822,jiiiiiiill@gmail.com,1998-12-23,Female,2016-02-19,2017-06-13,Arden Heights
+M8,Nahal,Epaphroditos,7184859866,nahalepapa@aol.com,1991-12-22,Male,2015-03-02,,Bensonhurst
+M9,Harry,Martin,3470603092,scaryharry@gmail.com,1970-05-15,Male,2016-04-12,,Dyker Heights
+M10,Joan,Cook,9296291204,cooooooook@gmail.com,1965-04-07,Female,2016-04-16,,Arden Heights
+M11,Edward,Washington,3471230932,ewashington@yahoo.com,1982-03-13,Male,2016-05-26,2017-05-12,Lower East Side
+M12,Jack,Chen,3471927492,jackchen@gmail.com,1999-10-17,Male,2016-07-12,,Flushing
+M13,Louis,Watson,2128167927,louis9831@yahoo.com,1973-04-28,Male,2016-08-17,,Astoria
+M14,Hyun-Seung,Lee,7182389589,leeleelee@gmail.com,1998-04-30,Male,2016-08-24,,Astoria
+M15,Paul,Coleman,3476917362,paulpaulcole@gmail.com,1940-11-08,Male,2017-06-23,,SoHo
+M16,Pinkie,Shu,2128659154,pinkshoes@aol.com,1993-12-30,Female,2017-07-26,,SoHo
+M17,Danny,Yuyu,7189654785,dannyuyuyuyu@gmail.com,1946-01-22,Male,2017-07-29,2017-08-26,Dyker Heights
+M18,Eddy,Marcos,3478596941,edmarco@yahoo.com,1990-08-23,Male,2017-09-20,,Parkchester
+M19,Jeff,Rey,7184256598,jrey193@aol.com,1992-06-23,Male,2018-11-12,,SoHo
+M20,Lewin,Paulina,7185858585,paulinexd@gmail.com,1989-09-03,Male,2018-06-13,,Bensonhurst

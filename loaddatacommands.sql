@@ -1,0 +1,11 @@
+load data local infile '~jl6182/finalproject/Gym_Branch.csv' into table gym_branch fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '~jl6182/finalproject/Member_Information.csv' into table member_info fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '~jl6182/finalproject/Member_Address.csv' into table member_address fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '~jl6182/finalproject/Employee_Information.csv' into table employee_info fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '~jl6182/finalproject/Employee_Address.csv' into table employee_address fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '~jl6182/finalproject/Employee_Title.csv' into table employee_title fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '~jl6182/finalproject/Guest_Information.csv' into table guest_info fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '~jl6182/finalproject/Guest_Address.csv' into table guest_address fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '~jl6182/finalproject/Gym_Facilities.csv' into table gym_facilities fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '~jl6182/finalproject/Membership_Type.csv' into table membership_type fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;
+load data local infile '~jl6182/finalproject/Member_Payment.csv' into table member_payment fields terminated by ',' lines terminated by '\r\n' ignore 1 lines;

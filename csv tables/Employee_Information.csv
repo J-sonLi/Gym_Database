@@ -1,0 +1,16 @@
+Employee_Id,Employee_fname,Employee_lname,Employee_phone,Employee_email,Employee_dob,Employee_sex,Employee_start,Employee_end,gym_branch
+E1,Michael,Santana,7188581254,msanta@gmail.com,1959-01-15,Male,2015-01-01,,SoHo
+E2,Darshan,Spartan,7184445894,Dshan@gmail.com,1993-01-15,Male,2015-01-23,2016-02-23,Dyker Heights
+E3,Stephanie ,Springs,9178596563,ssprings@yahoo.com,1994-01-16,Female,2015-02-20,2015-06-20,Astoria
+E4,Tony,Chang,9178457896,Hehetony12@yahoo.com,1993-04-03,Male,2015-01-30,,Flushing
+E5,Mike,Ramos,3478584225,mrramo33@gmail.com,1997-03-24,Male,2015-03-03,,Bensonhurst
+E6,Jennifer,Smith,7184563258,jennysmith@gmail.com,1984-12-12,Female,2015-02-28,,Flushing
+E7,Johnny ,Appleseed,9178548552,appleseedjon@gmail.com,1993-04-13,Male,2015-03-22,,Parkchester
+E8,Jessica,Simpson,7184635985,jessicasimpson@aol.com,1980-07-10,Female,2015-04-01,,Lower East Side
+E9,Edwin,Newton,9178495632,ednewton@gmail.com,1991-03-22,Max,2015-04-03,,SoHo
+E10,Donna,Tubbs,2128598660,donnatubbs@gmail.com,1981-11-14,Female,2015-04-04,,Lower East Side
+E11,Lily,Flora,3478026985,flowersforname@gmail.com,1992-01-30,Female,2015-12-31,,Flushing
+E12,Homer,Simpson,7189875623,thesimpsons@gmail.com,1983-03-24,Male,2016-01-03,,Arden Heights
+E13,Peter,Griffin,2128596366,familyguy@gmail.com,1989-03-24,Male,2016-01-05,,Lower East Side
+E14,Penny,Sheldon,9174562032,penshel@gmail.com,1995-06-23,Female,2016-03-24,,Dyker Heights
+E15,Sasha,Chen,3471598756,sashachen@yahoo.com,1989-04-25,Female,2016-05-03,,SoHo
