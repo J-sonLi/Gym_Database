@@ -17,7 +17,7 @@ In the `erd` file, you can see an er diagram for this project which shows the re
 
 After loading the tables into your database, use this command to show a list of all tables in your current database 
 ```
-mysql> show tables;
+show tables;
 ```
 
 3) Insert the commands from the `loaddata` file to load the data from `csv tables` into the tables created by `gymtables`
