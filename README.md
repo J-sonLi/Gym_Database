@@ -1,6 +1,8 @@
 # Gym Database
 A gym management system has many attributes consisting of members, employees, guests, etc. This project is about managing these attributes using mySQL.
 
+## Visualization
+In the `erd` file, you can see an er diagram for this project which shows the relationship between the tables.
 ## Setup
 
 1) Import the data from the folder `csv tables` into your directory
