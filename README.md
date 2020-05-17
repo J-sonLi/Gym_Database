@@ -28,4 +28,6 @@ show tables;
 In the `gymtestqueries` file, there are example queries that can be tested on mySQL.  
 Query results should reflect on the data loaded in from `csv tables`.
 
+## License
 
+This project is licensed under the terms of the MIT license
